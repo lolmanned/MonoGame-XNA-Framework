@@ -1,0 +1,1 @@
+A demo of the classic game Space Invaders.
