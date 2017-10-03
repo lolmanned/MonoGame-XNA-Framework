@@ -1,0 +1,100 @@
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\Consolas.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Barrier_44x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\BG_Space01_1024x768.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Bullet.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0101_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0102_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0201_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0202_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0301_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0302_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\MotherShip_32x120.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Ship01_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Ship02_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0102_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0202_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0302_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Infrastructure.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\Infrastructure.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex02\C17 Ex02 TamarMeltzer 201614120\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Barrier_44x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\BG_Space01_1024x768.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Bullet.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0101_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0102_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0201_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0202_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0301_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Enemy0302_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\MotherShip_32x120.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Ship01_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\GameAssets\Ship02_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Fonts\Consolas.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Barrier_44x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\BG_Space01_1024x768.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Bullet.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0101_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0102_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0201_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0202_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0301_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Enemy0302_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\MotherShip_32x120.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship01_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Content\Sprites\Ship02_32x32.xnb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.exe
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SpaceInvaders.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Infrastructure.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\Infrastructure.pdb
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\-T_DATA-\Tamar\HIT_And_CS_Studies\3rdYear\SemesterC\Game_Development\Submissions\Ex03\ver2_2017-10-03\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache

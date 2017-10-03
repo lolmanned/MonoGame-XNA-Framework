@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Barrier_44x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/BG_Space01_1024x768.jpg</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Bullet.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0101_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0102_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0201_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0202_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0301_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Enemy0302_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/MotherShip_32x120.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Ship01_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Sprites/Ship02_32x32.png</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/Fonts/Consolas.spritefont</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/BarrierHit.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/BGMusic.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/EnemyGunShot.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/EnemyKill.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/GameOver.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/LevelWin.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/LifeDie.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/MenuMove.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/MotherShipKill.wav</File>
+    <File>c:/-T_DATA-/Tamar/HIT_And_CS_Studies/3rdYear/SemesterC/Game_Development/Submissions/Ex03/ver2_2017-10-03/SpaceInvaders/Content/../../../../../../../../../../../Temp/XNA_Assets/Ex03/Sounds/SSGunShot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
