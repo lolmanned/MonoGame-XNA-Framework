@@ -2,7 +2,7 @@
 Implementation of games using C# & the MonoGame\XNA framework.
 
 1. Space Invaders -
-#####################################################################
+
 A clone to the famous old school shooting game "Space Invaders".
 This version involves different levels, players scores, sound, game screens, keyboard & mouse input management.
 The game availble for one or two players, defined in the settings screen.
