@@ -1,9 +1,8 @@
 ﻿/////*** Guy Ronen (c) 2008-2011 ***//
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using Infrastructure.ServiceInterfaces;
 using Infrastructure.ObjectModel.Animators;
-using System;
+using Infrastructure.Screens;
 
 namespace Infrastructure.ObjectModel
 {
@@ -231,6 +230,9 @@ namespace Infrastructure.ObjectModel
         {
         }
 
+        public Sprite(string i_AssetName, GameScreen i_GameScreen) : base(i_AssetName, i_GameScreen, int.MaxValue, int.MaxValue)
+        {
+        }
         /// <summary>
         /// Default initialization of bounds
         /// </summary>
@@ -246,6 +248,19 @@ namespace Infrastructure.ObjectModel
             InitSourceRectangle();
 
             InitOrigins();
+        }
+
+        protected virtual void InitAnimationsSettings()
+        {
+        }
+
+        protected virtual void InitPosition()
+        {
+        }
+
+        protected virtual void InitRotationOrigin()
+        {
+            RotationOrigin = new Vector2(WidthBeforeScale / 2, HeightBeforeScale / 2);
         }
 
         protected virtual void InitOrigins()
@@ -361,11 +376,11 @@ namespace Infrastructure.ObjectModel
         /// Returns the loaded texture with the specified asset's name without changing this object's current Texture member.
         /// </summary>
         /// <param name="i_AssetPath"></param>
-        protected virtual Texture2D LoadTexture(string i_AssetPath)
-        {
-            Texture2D loadedTexture = Game.Content.Load<Texture2D>(i_AssetPath);
+        //protected virtual Texture2D LoadTexture(string i_AssetPath)
+        //{
+        //    Texture2D loadedTexture = Game.Content.Load<Texture2D>(i_AssetPath);
 
-            return loadedTexture;
-        }
+        //    return loadedTexture;
+        //}
     }
 }

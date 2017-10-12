@@ -3,12 +3,18 @@ using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Infrastructure.ServiceInterfaces;
+using Infrastructure.Screens;
 
 namespace Infrastructure.ObjectModel
 {
     public abstract class LoadableDrawableComponent : DrawableGameComponent
     {
         public event EventHandler<EventArgs> Disposed;
+        protected readonly GameScreen r_GameScreen;
+        public GameScreen GameScreen
+        {
+            get { return r_GameScreen; }
+        }
 
         protected virtual void OnDisposed(object sender, EventArgs args)
         {
@@ -61,6 +67,16 @@ namespace Infrastructure.ObjectModel
         }
 
         public LoadableDrawableComponent(
+            string i_AssetName, GameScreen i_GameScreen, int i_UpdateOrder, int i_DrawOrder)
+            : base(i_GameScreen.Game)
+        {
+            r_GameScreen = i_GameScreen;
+            this.AssetName = i_AssetName;
+            this.UpdateOrder = i_UpdateOrder;
+            this.DrawOrder = i_DrawOrder;
+        }
+
+        public LoadableDrawableComponent(
             string i_AssetName, Game i_Game, int i_UpdateOrder, int i_DrawOrder)
             : base(i_Game)
         {
@@ -76,8 +92,8 @@ namespace Infrastructure.ObjectModel
             string i_AssetName,
             Game i_Game,
             int i_CallsOrder) : this(i_AssetName, i_Game, i_CallsOrder, i_CallsOrder)
-            {
-            }
+        {
+        }
 
         public override void Initialize()
         {

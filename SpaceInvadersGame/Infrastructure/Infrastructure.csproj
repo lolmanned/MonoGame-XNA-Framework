@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{63DB2439-8745-415C-B808-AD27FBB8A6C9}</ProjectGuid>
+    <ProjectGuid>{ABBAFB42-CB9F-4588-B2AC-32C3F14F483C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Infrastructure</RootNamespace>
@@ -24,7 +24,6 @@
     <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -42,30 +41,39 @@
   <PropertyGroup>
     <StartupObject />
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
   <ItemGroup>
     <Compile Include="Managers\CollisionsManager.cs" />
+    <Compile Include="Managers\DummyInputManager.cs" />
     <Compile Include="Managers\InputManager.cs" />
+    <Compile Include="Managers\MouseManager.cs" />
     <Compile Include="Managers\ScreensManager.cs" />
+    <Compile Include="Managers\SoundManager.cs" />
     <Compile Include="ObjectModel\Animators\CompositeAnimator.cs" />
     <Compile Include="ObjectModel\Animators\ConcreteAnimators\BlinkAnimator.cs" />
     <Compile Include="ObjectModel\Animators\ConcreteAnimators\CellAnimator.cs" />
     <Compile Include="ObjectModel\Animators\ConcreteAnimators\FadingOutAnimator.cs" />
-    <Compile Include="ObjectModel\Animators\ConcreteAnimators\RotationAnimator.cs" />
-    <Compile Include="ObjectModel\Animators\ConcreteAnimators\SequencialAnimator.cs" />
+    <Compile Include="ObjectModel\Animators\ConcreteAnimators\PulseAnimator.cs" />
     <Compile Include="ObjectModel\Animators\ConcreteAnimators\ResizingAnimator.cs" />
-    <Compile Include="ObjectModel\Animators\ConcreteAnimators\WaypointsAnymator.cs" />
+    <Compile Include="ObjectModel\Animators\ConcreteAnimators\RotationAnimator.cs" />
     <Compile Include="ObjectModel\Animators\SpriteAnimator.cs" />
     <Compile Include="ObjectModel\CollidableSprite.cs" />
-    <Compile Include="ObjectModel\GameScreen.cs" />
+    <Compile Include="ObjectModel\CompositeDrawableComponent.cs" />
     <Compile Include="ObjectModel\GameService.cs" />
     <Compile Include="ObjectModel\LoadableDrawableComponent.cs" />
     <Compile Include="ObjectModel\RegisteredComponent.cs" />
     <Compile Include="ObjectModel\Sprite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Screens\GameScreen.cs" />
     <Compile Include="ServiceInterfaces\ICollisionsManager.cs" />
     <Compile Include="ServiceInterfaces\IInputManager.cs" />
+    <Compile Include="ServiceInterfaces\IMouseManager.cs" />
     <Compile Include="ServiceInterfaces\IScoreManager.cs" />
     <Compile Include="ServiceInterfaces\IScreensManager.cs" />
+    <Compile Include="ServiceInterfaces\ISoundManager.cs" />
+    <Compile Include="Settings\AppSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">

@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Infrastructure.Managers;
-using Infrastructure.ObjectModel;
+﻿using Infrastructure.Managers;
+using Infrastructure.Screens;
 using Infrastructure.ServiceInterfaces;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
 
 namespace Infrastructure.ObjectModel
 {
@@ -15,16 +9,14 @@ namespace Infrastructure.ObjectModel
 
     public class CollidableSprite : Sprite, ICollidable2D
     {
-        protected static bool s_IsTextureInstanceCreated = false;
         private readonly CollisionsManager r_CollisionsManager;
-        protected bool m_IsPixelsCollisionActive = false;
         protected Color[] m_TexturePixelsMatrix;
         protected float m_AnimationLength;
         protected int m_RotationsPerSecond;
 
         public event CollisionEventHandler OnCollisionDetected;
 
-        public CollidableSprite(string i_AssetName, Game i_Game) : base(i_AssetName, i_Game)
+        public CollidableSprite(string i_AssetName, GameScreen i_GameScreen) : base(i_AssetName, i_GameScreen)
         {
             r_CollisionsManager = (CollisionsManager)Game.Services.GetService(typeof(ICollisionsManager));
             r_CollisionsManager.AddObjectToMonitor(this);
@@ -32,17 +24,18 @@ namespace Infrastructure.ObjectModel
 
         public Vector2 DirectionVector { get; protected set; }
 
-        protected virtual void InitAnimationsSettings()
+        protected Color[] TexturePixelsMatrix
         {
-        }
+            get
+            {
+                return m_TexturePixelsMatrix;
+            }
 
-        protected virtual void InitPosition()
-        {
-        }
-
-        protected virtual void InitRotationOrigin()
-        {
-            RotationOrigin = new Vector2(WidthBeforeScale / 2, HeightBeforeScale / 2);
+            set
+            {
+                m_TexturePixelsMatrix = value;
+                Texture.SetData(value);
+            }
         }
 
         protected CollisionsManager CollisionsManager
@@ -79,22 +72,9 @@ namespace Infrastructure.ObjectModel
         protected override void LoadContent()
         {
             base.LoadContent();
-            if (m_IsPixelsCollisionActive)
-            {
-                if (s_IsTextureInstanceCreated)
-                {
-                    m_TexturePixelsMatrix = new Color[Texture.Width * Texture.Height];
-                    Texture.GetData(m_TexturePixelsMatrix);
-                    Texture = new Texture2D(Game.GraphicsDevice, Texture.Width, Texture.Height);
-                    Texture.SetData(m_TexturePixelsMatrix);
-                }
-                else
-                {
-                    s_IsTextureInstanceCreated = true;
-                    m_TexturePixelsMatrix = new Color[Texture.Width * Texture.Height];
-                    Texture.GetData(m_TexturePixelsMatrix);
-                }
-            }
+            m_TexturePixelsMatrix = new Color[Texture.Width * Texture.Height];
+            InitBounds();
+            Texture.GetData(m_TexturePixelsMatrix);
         }
     }
 }

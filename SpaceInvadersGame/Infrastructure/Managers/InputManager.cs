@@ -1,13 +1,12 @@
 ﻿/////*** Guy Ronen (c) 2008-2011 ***//
+using System.Text;
+using Infrastructure.ObjectModel;
+using Infrastructure.ServiceInterfaces;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
 namespace Infrastructure.Managers
 {
-    using System.Text;
-    using Infrastructure.ObjectModel;
-    using Infrastructure.ServiceInterfaces;
-
     public class InputManager : GameService, IInputManager
     {
         private KeyboardState m_PrevKeyboardState;

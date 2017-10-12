@@ -1,7 +1,5 @@
 ﻿/////*** Guy Ronen (c) 2008-2011 ***//
 using System;
-using System.Collections.Generic;
-using System.Text;
 using Microsoft.Xna.Framework;
 
 namespace Infrastructure.ObjectModel.Animators

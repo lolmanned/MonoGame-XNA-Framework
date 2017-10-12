@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿////*** Guy Ronen © 2008-2011 ***//
+using Infrastructure.Screens;
 
 namespace Infrastructure.ServiceInterfaces
 {
     public interface IScreensManager
     {
-        void SetCurrentScreen();
-        void PushScreen();
-        void PopScreen();
+        GameScreen ActiveScreen { get; }
+        void SetCurrentScreen(GameScreen i_NewScreen);
+        bool Remove(GameScreen i_Screen);
+        void Add(GameScreen i_Screen);
     }
 }

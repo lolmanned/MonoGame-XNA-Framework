@@ -1,4 +1,4 @@
-﻿//*** Guy Ronen (c) 2008-2011 ***//
+﻿////*** Guy Ronen (c) 2008-2011 ***//
 using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
