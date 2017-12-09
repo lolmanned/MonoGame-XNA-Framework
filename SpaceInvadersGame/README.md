@@ -6,7 +6,7 @@ tracking the points gained by each scoring Sprite.
 ### - Sprites - Concrete Sprite entities.
 - LivingEntity - a Sprite having Health as a class member which has the ability to loose souls.
 - FightingEntity - derived from LivingEntity. a Sprite having Health & ShootingMachine as class members.
-- EnemiesMatrix - a data structure used to hold and handle a group of Enemie objects sharing the same behavior.
+- EnemiesMatrix - a data structure used to hold and handle a group of Enemy objects sharing the same behavior.
 - BarriersLine - a data structure used to hold and handle a group of Barrier objects sharing the same behavior.
 - Bullet - a Sprite representing the weapon used in this game.
 
