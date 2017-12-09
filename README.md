@@ -1,7 +1,7 @@
 # MonoGame\XNA Framework
 Implementation of games using C# & the MonoGame\XNA framework.
 
-1. Space Invaders -
+## 1. Space Invaders
 Watch the game demo on YouTube: https://youtu.be/yhU_XmegkMg
 
 A clone to the famous old school shooting game "Space Invaders".
@@ -11,4 +11,5 @@ The game available for one or two players, defined in the settings screen.
 2nd Player moves right & left by G, D keys respectively, and shoots by R key.
 
 
-2. Pong
+## 2. Pong
+The first aracade video game made on XNA\MonoGame.
