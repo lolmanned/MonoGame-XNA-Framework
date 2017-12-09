@@ -1,4 +1,4 @@
-# Folders Guide
+# Project Guide
 ## SpaceInvaders
 ### - Managers/ScoreManager
 tracking the points gained by each scoring Sprite.
