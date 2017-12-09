@@ -2,7 +2,7 @@
 ## 1. Space Invaders
 ### YouTube demo: https://youtu.be/yhU_XmegkMg
 
-A clone to the famous old school shooting game "Space Invaders".
+A clone to the famous old school shooting game "Space Invaders" demonstrating OOP & Design Patterns concepts.
 This version involves different levels, players scores, sound, game screens, keyboard & mouse input management.
 The game available for one or two players, defined in the settings screen.
 1st Player moves by the arrow keys and shoots by the up arrow key.
@@ -10,4 +10,4 @@ The game available for one or two players, defined in the settings screen.
 
 
 ## 2. Pong
-A basic demonstration of the XNA\MonoGame framework by cloning the first table-tennis arcade video game.
+A basic demonstration of the XNA\MonoGame framework by implementing the first table-tennis arcade video game.
