@@ -22,4 +22,4 @@ A set of classes providing the abillity to access and change data, per single fr
 
 ### Object-Model
 #### Animators
-- A set of animators classes. Each concrete animator's (such as resizing or rotating animator) goal is to change the properties (such as height or position) of a referecned Sprite, per each frame, for a defined amount of time. By doing so, the animation effect is achieved. Once the animation is done, the referenced Sprite will be reverted to its original form.
+- A set of animators classes. Each concrete animator's (such as resizing or rotating animator) goal is to change the properties (such as height or position) of a referecned Sprite, per each frame, for a defined amount of time. By doing so, the animation effect is achieved. Once the animation is done, the referenced Sprite will be reverted to its original form by the active Animator.
