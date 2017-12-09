@@ -1,6 +1,6 @@
 # Folders Guide
 ## SpaceInvaders
-### Managers
+### - Managers/ScoreManager
 #### ScoresManager - tracking the points gained by each scoring Sprite.
 - Sprites - Concrete Sprite entities.
 LivingEntity - a Sprite having Health as a class member which has the ability to loose souls.
