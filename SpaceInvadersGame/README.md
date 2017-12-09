@@ -3,7 +3,7 @@
 ### - Managers/ScoreManager
 tracking the points gained by each scoring Sprite.
 
-### - Sprites - Concrete Sprite entities.
+### - Sprites - Concrete Sprite entities
 - LivingEntity - a Sprite having Health as a class member which has the ability to loose souls.
 - FightingEntity - derived from LivingEntity. a Sprite having Health & ShootingMachine as class members.
 - EnemiesMatrix - a data structure used to hold and handle a group of Enemy objects sharing the same behavior.
